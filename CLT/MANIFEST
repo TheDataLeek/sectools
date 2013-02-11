@@ -1,0 +1,11 @@
+Files included in this release are:
+CLT_XOR.py
+baseconv.py
+CLT_RSA.py
+CLT_caesar.py
+CLT_vigenere.py
+README
+LICENSE
+MANIFEST
+CHANGELOG
+INSTALL

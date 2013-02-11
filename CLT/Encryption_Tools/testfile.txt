@@ -1,0 +1,7 @@
+this file is just for testing of the read/write capabilities of the various programs.
+
+It has a variety of characters to test and double-check that every character is supported
+
+`1234567890-=+_)(*&^%$#@!~qwertyuiop[]\|}{POIUYTREWQ
+
+asdfghjkl;'ASDFGHJKL:"zxcvbnm,./>?<MBNCXZ
